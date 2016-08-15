@@ -14,23 +14,25 @@ F1 (command palette)
 Cntrl + Space (intellisense)
 Cntrl + Tab (quick file)
 
+## Markdown Editor
+- Ctrl + Shift + v (or Ctrl + k v) (or click icon)
+
+## Terminal
+- Cntrl + `
+- Tabs
+
 ## Search
 - Find
 - Find in *
 - Replace
 
-## Markdown Editor
-- Ctrl + Shift + v (or Ctrl + k v) (or click icon)
-
-
 ## git
+- Stage
 - Commit
 - Push
+- Clean
 
 ## Extensions
 
 ### C#
 ```ext install csharp```
-
-
-
