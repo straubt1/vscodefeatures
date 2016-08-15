@@ -22,6 +22,11 @@ Cntrl + Tab (quick file)
 ## Markdown Editor
 - Ctrl + Shift + v (or Ctrl + k v) (or click icon)
 
+
+## git
+- Commit
+- Push
+
 ## Extensions
 
 ### C#
